@@ -7,5 +7,4 @@ Need help with Git? Or picking up a new skill? Go to the [Training repository](h
 Each project has its own repository. You can find them all [here, under the organization page](https://github.com/orgs/TBC-Projects/repositories).
 
 ## Need Access?
-By default, you should be able to contribute to public repositories by forking the repository and submitting a pull request with your changes.
-If you require additional access, fill out [The Boring Club Access Request Form](https://forms.gle/t4e4RpEevmqCGKiVA).
+By default, you should be able to see public repositories. To make changes, fill out [The Boring Club Access Request Form](https://forms.gle/t4e4RpEevmqCGKiVA).
